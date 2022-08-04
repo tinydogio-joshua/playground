@@ -1,9 +1,15 @@
 {
   "workbench.colorCustomizations": {
-    "statusBar.background": "#dd0531",
+    "statusBar.background": "#601aed",
     "statusBar.foreground": "#e7e7e7",
-    "statusBarItem.hoverBackground": "#fa1b49",
-    "statusBarItem.remoteBackground": "#dd0531",
+    "statusBarItem.hoverBackground": "#8149f1",
+    "statusBarItem.remoteBackground": "#601aed",
     "statusBarItem.remoteForeground": "#e7e7e7"
-  }
+  },
+  "cSpell.words": [
+    "azuretools",
+    "bierner",
+    "dbaeumer",
+    "formulahendry"
+  ]
 }

@@ -32,10 +32,10 @@
 				"editor.insertSpaces": true,
 				"editor.tabSize": 2,
 				"workbench.colorCustomizations": {
-					"statusBar.background": "#dd0531",
+					"statusBar.background": "#601aed",
 					"statusBar.foreground": "#e7e7e7",
-					"statusBarItem.hoverBackground": "#fa1b49",
-					"statusBarItem.remoteBackground": "#dd0531",
+					"statusBarItem.hoverBackground": "#8149f1",
+					"statusBarItem.remoteBackground": "#601aed",
 					"statusBarItem.remoteForeground": "#e7e7e7"
 				},
 				"peacock.affectActivityBar": false,
@@ -49,7 +49,7 @@
 				"peacock.affectTabActiveBorder": false,
 				"peacock.affectTitleBar": false,
 				"peacock.showColorInStatusBar": false,
-				"peacock.remoteColor": "#dd0531"
+				"peacock.remoteColor": "#601aed"
 			}
 		}
 	},
