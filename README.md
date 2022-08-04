@@ -16,3 +16,8 @@ This project runs in a [`devcontainer`](https://code.visualstudio.com/docs/remot
 The [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) extension doesn't require you make a file for running the code. If you choose to keep some code around, please use the `scratchpad` directory. It will work the same way, but allow us to push out updates without destroying your work.
 
 > NOTE: This is meant to be a playground, not a production tool. Don't keep important things within this project.
+
+
+## Ideas?
+
+If you have any ideas of things that would make this useful. Please file an issue or feel free to submit a Pull Request.
